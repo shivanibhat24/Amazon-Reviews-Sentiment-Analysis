@@ -3,7 +3,7 @@ This project is my first ML Project created with the help of a dataset of review
 
 Programmed in Python suing ML libraries like Numpy, Matplotlib, Seaborn, Pandas
 
-Another new world unlocked: ML 🔥🔥
+One of my first steps into the world of Data Science,Artificial Intelligence and Data Analysis!🔥🔥
 
 Love,
 Shivani
